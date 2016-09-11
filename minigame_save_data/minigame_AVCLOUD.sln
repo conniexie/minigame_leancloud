@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E3EC6784-45E2-3988-0D63-6AB4C2282640}") = "minigame_AVCLOUD", "Assembly-CSharp.csproj", "{D4E99E6F-DE35-2864-587A-5F9C5545D690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E99E6F-DE35-2864-587A-5F9C5545D690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E99E6F-DE35-2864-587A-5F9C5545D690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E99E6F-DE35-2864-587A-5F9C5545D690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E99E6F-DE35-2864-587A-5F9C5545D690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
